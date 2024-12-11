@@ -17,9 +17,6 @@
 I am a winner of several All-Russian competitions <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1sYTlxbmFpeXp0dGs0bXVuYnRtOXNmOWJmcDZqZ3ZneHR3azA4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSELvbsJ8ok34MSTYq/giphy.gif" width="30"> 
 -  Developed my project and studied at the Quantorium:
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ## Hi there 👋
 
 <!--
